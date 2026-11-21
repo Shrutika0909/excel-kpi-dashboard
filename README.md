@@ -46,4 +46,14 @@ All data used in this project is fictional and created exclusively for education
 ## 👩‍💻 Author
 **Shrutika Agwan**
 
+## 📸 Dashboard Preview
+![Business KPI Dashboard](Screenshot%202026-11-21%20170016.png)
+
+## 🛠 Tools Used
+- Microsoft Excel
+- Pivot-style KPI reporting
+- Data visualization
+- Charts and formulas
+- Conditional formatting
+
 BSc Graduate | Data Operations | Business Analysis | Data Analytics
